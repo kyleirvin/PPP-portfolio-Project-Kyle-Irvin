@@ -1,4 +1,8 @@
-# This Repository contains the code used in my Analysis of the PPP Loan Project.                                            
+# This Repository contains the code used in my Analysis of the PPP Loan Project.
+
+My name is Kyle Irvin. This project was independently done to demonstrate my data analysis skills. I am currently looking for a position as a junior data analyst, please contact kyle.ch.irvin@gmail.com with any opportunities that may fit my background.
+
+To recreate this project, please download the PPP data from https://data.sba.gov/dataset/ppp-foia. These files come in multiple excel files, use the consolidator to combine them into one file.
 
 Loan amount based on business age.R contains code written in Rstudio that consists of aggregation queries and a plot created with ggplot2
 
