@@ -1,6 +1,5 @@
 # This Repository contains the code used in my Analysis of the PPP Loan Project.                                            
 
-
 #Loan amount based on business age.R contains code written in Rstudio that consists of aggregation queries and a plot created with ggplot2
 
 #PPP Loan consolidation Kyle Irvin Visualizations.R contains code written in Rstudio 
