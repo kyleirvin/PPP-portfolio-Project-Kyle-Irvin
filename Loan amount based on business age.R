@@ -26,5 +26,5 @@ aggdf3<-subset(agg_df3, BusinessAgeDescription=="Existing or more than 2 years o
 #Dividing the Loan by 1 Billion to fit numerical figure in graph
 aggdf3$ LoanValue<- aggdf3$CurrentApprovalAmount/1000000000
 
-#Create Plot
+#Create Plot-->
 ggplot(aggdf3, aes(fill=BusinessAgeDescription, y=LoanValue, x=BusinessAgeDescription )) + ggtitle("Total Value Loaned in Billions USD") + geom_bar(position="dodge", stat="identity")
