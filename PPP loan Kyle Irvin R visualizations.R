@@ -3,7 +3,7 @@
 # Process and create visualization of Total Amount Loaned by Business Type
 # Visual 2/2
 
-#Import Libraries
+#Import Libraries-->
 
 library(readr)
 library("ggplot2")
